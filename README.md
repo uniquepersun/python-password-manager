@@ -19,8 +19,11 @@ Generate secure passwords, store them, and retrieve them whenever needed. encryp
 
 ## Some screenshots :)
 - watch it in aciton!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/331a82ef-5281-4d84-8e03-bd351c25a0bd)
+    - [another!](https://github.com/user-attachments/assets/fa324c63-5e2d-48e7-a90e-73c17534e53c)
+    - [one more!!](https://github.com/user-attachments/assets/ae2da083-cd79-4b03-94c0-01c5596ad5dd)
+
+
  
 
 ## 🔗 Let's have a talk!!
